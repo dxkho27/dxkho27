@@ -7,6 +7,7 @@
     <li>Feel free to connect with me on <a href="https://www.linkedin.com/in/kho-de-xin">LinkedIn</a>! 🤗</li>
 </ul>
 <strong>Fun fact: </strong>I'm a coffee enthusiast! ☕
+<hr>
 
 <h3>Tech Stack</h3>
 <ul>
@@ -15,6 +16,7 @@
     <li><strong>Frameworks: </strong>TALL (Tailwind CSS, Alpine.js, Laravel, Livewire) stack, Filament, jQuery</li>
     <li><strong>Testing and version control: </strong>Pest PHP, Git</li>
 </ul>
+<hr>
 
 <h3>Languages</h3>
 <ul>
