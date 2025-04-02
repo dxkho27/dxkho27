@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 <ul>
-    <li>A <strong>Software Engineering student</strong> and <strong>part-time web developer</strong> who is passionate about software development and problem solving 🧑🏻‍💻</li>
+    <li>A <strong>Software Engineering student</strong> and <strong>web developer</strong> who is passionate about software development and problem solving 🧑🏻‍💻</li>
     <li>Experienced in <strong>software-as-a-service</strong> (<strong>SaaS</strong>) and <strong>web development</strong> (mainly backend), specifically for small and medium-sized enterprises (SMEs) ✨</li>
     <li>Feel free to connect with me on <a href="https://www.linkedin.com/in/kho-de-xin">LinkedIn</a>! 🤗</li>
 </ul>
